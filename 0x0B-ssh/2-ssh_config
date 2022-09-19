@@ -1,0 +1,7 @@
+OpenSSH_8.2p1 Ubuntu-4ubuntu0.5, OpenSSL 1.1.1f  31 Mar 2020
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 19: include /etc/ssh/ssh_config.d/*.conf matched no files
+debug1: /etc/ssh/ssh_config line 21: Applying options for *
+debug1: Connecting to 102.89.47.114 [102.89.47.114] port 22.
+debug1: connect to address 102.89.47.114 port 22: Connection timed out
+ssh: connect to host 102.89.47.114 port 22: Connection timed out
